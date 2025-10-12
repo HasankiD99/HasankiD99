@@ -17,9 +17,6 @@
 - Backend basics (Node.js, Express, MongoDB)  
 - My projects: **GearWise**, **Vestario**, **Biteblaze**
  
-- 📫 How to reach me: ...
-- Email: hasanki.hd@gmail.com  
-- LinkedIn: www.linkedin.com/in/didulani-dharmarathna
-- GitHub: https://github.com/HasankiD99
+ 
  
 
