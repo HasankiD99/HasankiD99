@@ -14,7 +14,7 @@
   
 - 💬 Ask me about...
 - Frontend development (React, Tailwind, Next.js)  
-- Backend basics (Node.js, Express, MongoDB)  
+- Backend basics (Node.js, Express, MongoDB)  another one
 - My projects: **GearWise**, **Vestario**, **Biteblaze**
  
  
