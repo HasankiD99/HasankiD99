@@ -3,7 +3,7 @@
 
 **HasankiD99** is a **BSc (Hons) Computer Science & Technology** undergraduate at **Uva Wellassa University** — passionate about web development, software engineering, and Quality Assurance...
 
-- 🔭 I’m currently working... kkkkk
+- 🔭 I’m currently working... 
 - at **ICIEOS (Pvt) Ltd** — building full-stack web apps using **React / Next.js / Tailwind** and **Node.js** backends.
 - Research: **Time-series analysis of the Mahaweli River** for pollution mapping ( ML + GIS).
   
